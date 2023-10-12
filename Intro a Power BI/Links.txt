@@ -1,0 +1,11 @@
+Descargar Power BI Desktop:
+https://www.microsoft.com/en-US/download/details.aspx?id=58494
+
+Instrucciones para cuenta de prueba:
+https://learn.microsoft.com/es-mx/power-bi/enterprise/service-admin-signing-up-for-power-bi-with-a-new-office-365-trial#sign-up-for-a-microsoft-365-trial-of-office
+
+Cancelar suscripcion:
+https://learn.microsoft.com/es-mx/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide
+
+Devin Knight - Creación de Dimensión Fecha:
+https://devinknightsql.com/
